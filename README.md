@@ -4,5 +4,5 @@
   
 ## Usage
 
-  Paste the script in your browser's console and press Enter. Start painting :-)
+  Paste the contents of *picasso.js* in your browser's console and press Enter. Start painting :-)
   
